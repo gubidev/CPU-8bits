@@ -30,7 +30,7 @@ O "cérebro" sequencial que dita o ritmo da máquina. Utiliza a estratégia de *
   * `T2` (Execução): A ALU finaliza a operação e os registradores QA/MQ recebem o sinal de `Enable` para salvar os resultados. O PC avança novamente para a próxima instrução.
  
 ### 3. OP CODES:
-0 - Soma (Para usar a Subtracao ativar o botao da subtracao assim que clocar a soma)
+0 - Soma (Para usar a Subtracao ativar o botao da subtracao antes de clocar a soma, nao ative no comeco so depois do primeiro numero aparecer)
 1 - XOR
 2 - NAND
 3 - Shift Direita
