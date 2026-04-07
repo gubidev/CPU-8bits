@@ -6,8 +6,9 @@ O projeto implementa uma arquitetura simplificada baseada em Acumulador, contand
 
 ## Vídeo de Apresentação
 
-[![Apresentação da CPU](https://drive.google.com/file/d/1hf8uBHTbh2HQ-rNtZQ56JxIM_GCiwEaK/view?usp=sharing)
-[![Repositorio ALU](https://github.com/gubidev/ALU-8bits)
+[Apresentação da CPU](https://drive.google.com/file/d/1hf8uBHTbh2HQ-rNtZQ56JxIM_GCiwEaK/view?usp=sharing)
+
+[Repositorio ALU](https://github.com/gubidev/ALU-8bits)
 ## Arquitetura do Projeto
 
 O processador foi dividido em dois blocos principais para gerenciar os ciclos de *Fetch* (Busca) e *Execute* (Execução):
